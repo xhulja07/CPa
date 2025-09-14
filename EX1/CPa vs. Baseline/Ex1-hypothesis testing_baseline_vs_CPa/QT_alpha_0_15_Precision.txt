@@ -1,0 +1,9 @@
+Sheet: DeepJIT, testKind: wilcoxon, alternative: two-sided 
+Precision: p-value = 0.130859375, Statistically Significant: No, Z-value = -1.5799062934566392, Effect Size = 0.49961023769573576
+
+Sheet: CodeBERT4JIT, testKind: wilcoxon, alternative: two-sided 
+Precision: p-value = 0.037109375, Statistically Significant: Yes, Z-value = -2.0895534848942647, Effect Size = 0.6607748305008118
+
+Sheet: LApredict, testKind: wilcoxon, alternative: two-sided 
+Precision: p-value = 0.001953125, Statistically Significant: Yes, Z-value = -2.8030595529069404, Effect Size = 0.8864052604279182
+

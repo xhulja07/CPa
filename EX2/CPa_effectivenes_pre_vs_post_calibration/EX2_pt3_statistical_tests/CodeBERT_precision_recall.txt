@@ -1,0 +1,24 @@
+Sheet: CodeBERT_qt_alpha_0.05, wilcox alternative: two-sided 
+Precision: p-value = 2.4546507621784225e-05, Statistically Significant: Yes, Z-value = -4.542027118404073, Effect Size = 0.45420271184040734
+Recall: p-value = 1.8530393603675483e-09, Statistically Significant: Yes, Z-value = -6.010191826624013, Effect Size = 0.6010191826624013
+
+Sheet: CodeBERT_qt_alpha_0.1, wilcox alternative: two-sided 
+Precision: p-value = 7.55704804907942e-18, Statistically Significant: Yes, Z-value = -8.606127083546856, Effect Size = 0.8606127083546855
+Recall: p-value = 4.220912101095269e-14, Statistically Significant: Yes, Z-value = -7.553999681403292, Effect Size = 0.7553999681403292
+
+Sheet: CodeBERT_qt_alpha_0.15, wilcox alternative: two-sided 
+Precision: p-value = 8.467111538347761e-17, Statistically Significant: Yes, Z-value = -8.509853987925876, Effect Size = 0.8509853987925876
+Recall: p-value = 4.611279067549772e-16, Statistically Significant: Yes, Z-value = -8.12132328059835, Effect Size = 0.812132328059835
+
+Sheet: CodeBERT_OS_alpha_0.05, wilcox alternative: two-sided 
+Precision: p-value = 0.00029298812950743906, Statistically Significant: Yes, Z-value = -4.08472991420442, Effect Size = 0.408472991420442
+Recall: p-value = 5.399731982312608e-08, Statistically Significant: Yes, Z-value = -5.618222794452881, Effect Size = 0.5618222794452881
+
+Sheet: CodeBERT_OS_alpha_0.1, wilcox alternative: two-sided 
+Precision: p-value = 0.0039171894476237945, Statistically Significant: Yes, Z-value = -2.8847545437857818, Effect Size = 0.2884754543785782
+Recall: p-value = 6.536103994610526e-17, Statistically Significant: Yes, Z-value = -8.355129369963587, Effect Size = 0.8355129369963586
+
+Sheet: CodeBERT_OS_alpha_0.15, wilcox alternative: two-sided 
+Precision: p-value = 7.117077537219983e-18, Statistically Significant: Yes, Z-value = -8.613003733234068, Effect Size = 0.8613003733234068
+Recall: p-value = 5.671494681756613e-10, Statistically Significant: Yes, Z-value = -6.199299693022365, Effect Size = 0.6199299693022364
+

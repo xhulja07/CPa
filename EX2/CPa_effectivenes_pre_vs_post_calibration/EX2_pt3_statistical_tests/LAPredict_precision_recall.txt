@@ -1,0 +1,24 @@
+Sheet: LApredict_OS_alpha_0.05, wilcox alternative: two-sided 
+Precision: p-value = 0.16287071087412586, Statistically Significant: No, Z-value = -2.222358535669654, Effect Size = 0.34707409278078377
+Recall: p-value = 0.5209186966173656, Statistically Significant: No, Z-value = -1.120898036941254, Effect Size = 0.17505486312266938
+
+Sheet: LApredict_OS_alpha_0.1, wilcox alternative: two-sided 
+Precision: p-value = 0.9888658839962353, Statistically Significant: No, Z-value = -0.5377718905556305, Effect Size = 0.08398585918602056
+Recall: p-value = 0.34265120100120583, Statistically Significant: No, Z-value = -1.405981930729781, Effect Size = 0.21957748726947543
+
+Sheet: LApredict_OS_alpha_0.15, wilcox alternative: two-sided 
+Precision: p-value = 0.9571222443505697, Statistically Significant: No, Z-value = -0.31747979080995054, Effect Size = 0.04958201325439768
+Recall: p-value = 0.527556149540109, Statistically Significant: No, Z-value = -0.8746892195784352, Effect Size = 0.1366035059049732
+
+Sheet: LApredict_QT_alpha_0.05, wilcox alternative: two-sided 
+Precision: p-value = 0.9769609550688756, Statistically Significant: No, Z-value = -0.03501057770993287, Effect Size = 0.00527804317988307
+Recall: p-value = 0.8851802090905494, Statistically Significant: No, Z-value = -0.1517125034097091, Effect Size = 0.02287152044615997
+
+Sheet: LApredict_QT_alpha_0.1, wilcox alternative: two-sided 
+Precision: p-value = 0.6562950291505558, Statistically Significant: No, Z-value = -0.4551375102291273, Effect Size = 0.06861456133847992
+Recall: p-value = 0.894310661280997, Statistically Significant: No, Z-value = -0.14004231083973148, Effect Size = 0.02111217271953228
+
+Sheet: LApredict_QT_alpha_0.15, wilcox alternative: two-sided 
+Precision: p-value = 0.6396514575927768, Statistically Significant: No, Z-value = -0.47847789536908253, Effect Size = 0.07213325679173528
+Recall: p-value = 0.3910214360674308, Statistically Significant: No, Z-value = -0.8577591538933553, Effect Size = 0.1293120579071352
+

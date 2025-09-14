@@ -1,0 +1,9 @@
+Sheet: DeepJIT, ttest_1samp alternative: less 
+New validity: p-value = 8.93068051043671e-35, Statistically Significant: Yes, Z-value = -6.462453432295101, Effect Size = 0.9139289290156289
+
+Sheet: LApredict, ttest_1samp alternative: less 
+New validity: p-value = 8.329198388727041e-30, Statistically Significant: Yes, Z-value = -6.108434929199451, Effect Size = 0.9208812143843513
+
+Sheet: CodeBERT, ttest_1samp alternative: less 
+New validity: p-value = 1.1510049197505817e-09, Statistically Significant: Yes, Z-value = -8.70437882327187, Effect Size = 0.870437882327187
+
