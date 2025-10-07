@@ -1,0 +1,12 @@
+Sheet: CodeBERT-OS, testKind: wilcoxon, alternative: two-sided 
+Recall class0: p-value = 7.333806979251821e-18, Statistically Significant: Yes, Z-value = -8.609565408390461, Effect Size = 0.860956540839046
+Recall class1: p-value = 2.58971672315605e-17, Statistically Significant: Yes, Z-value = -8.46343660253719, Effect Size = 0.846343660253719
+
+Sheet: DeepJIT-OS, testKind: wilcoxon, alternative: two-sided 
+Recall class0: p-value = 0.22222524197015925, Statistically Significant: No, Z-value = -1.220605319480277, Effect Size = 0.12206053194802771
+Recall class1: p-value = 3.807417569920903e-18, Statistically Significant: Yes, Z-value = -8.681770230106196, Effect Size = 0.8681770230106196
+
+Sheet: LApredict-OS, testKind: wilcoxon, alternative: two-sided 
+Recall class0: p-value = 4.015476591485066e-18, Statistically Significant: Yes, Z-value = -8.67833190526259, Effect Size = 0.8678331905262591
+Recall class1: p-value = 4.375930731629879e-18, Statistically Significant: Yes, Z-value = -8.661140281044558, Effect Size = 0.8661140281044558
+

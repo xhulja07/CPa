@@ -1,0 +1,56 @@
+ openstack dataset experiment nr: 0: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.171130: 
+ Class = 1 qhat_on alpha:0.150000: 0.921615: 
+------------------------------------------------------------ 
+ openstack dataset experiment nr: 1: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.145199: 
+ Class = 1 qhat_on alpha:0.150000: 0.917477: 
+------------------------------------------------------------ 
+ openstack dataset experiment nr: 2: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.156153: 
+ Class = 1 qhat_on alpha:0.150000: 0.913584: 
+------------------------------------------------------------ 
+ openstack dataset experiment nr: 3: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.148933: 
+ Class = 1 qhat_on alpha:0.150000: 0.911432: 
+------------------------------------------------------------ 
+ openstack dataset experiment nr: 4: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.138927: 
+ Class = 1 qhat_on alpha:0.150000: 0.937610: 
+------------------------------------------------------------ 
+ openstack dataset experiment nr: 5: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.155746: 
+ Class = 1 qhat_on alpha:0.150000: 0.917770: 
+------------------------------------------------------------ 
+ openstack dataset experiment nr: 6: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.120954: 
+ Class = 1 qhat_on alpha:0.150000: 0.928730: 
+------------------------------------------------------------ 
+ openstack dataset experiment nr: 7: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.137662: 
+ Class = 1 qhat_on alpha:0.150000: 0.935657: 
+------------------------------------------------------------ 
+ openstack dataset experiment nr: 8: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.150530: 
+ Class = 1 qhat_on alpha:0.150000: 0.915305: 
+------------------------------------------------------------ 
+ openstack dataset experiment nr: 9: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.144785: 
+ Class = 1 qhat_on alpha:0.150000: 0.927942: 
+------------------------------------------------------------ 
+ openstack dataset experiment nr: 10: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.153614: 
+ Class = 1 qhat_on alpha:0.150000: 0.906886: 
+------------------------------------------------------------ 
+ 
