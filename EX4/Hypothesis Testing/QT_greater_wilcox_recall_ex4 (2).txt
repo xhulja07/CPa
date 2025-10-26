@@ -1,0 +1,18 @@
+Sheet: DeepJIT, wilcoxon alternative: greater 
+C1: p-value = 1.929680474046086e-18, Statistically Significant: Yes, Z-value = 8.681770230106196, Effect Size = 0.8681770230106196
+C2: p-value = 3.7056578770086685e-12, Statistically Significant: Yes, Z-value = -1.966721810542869, Effect Size = 0.1966721810542869
+C3: p-value = 0.002460156992221257, Statistically Significant: Yes, Z-value = -8.492662363707844, Effect Size = 0.8492662363707844
+C4: p-value = 1.9166529280569584e-18, Statistically Significant: Yes, Z-value = 8.681770230106196, Effect Size = 0.8681770230106196
+
+Sheet: CodeBERT4JIT, wilcoxon alternative: greater 
+C1: p-value = 1.933168636747134e-18, Statistically Significant: Yes, Z-value = 8.681770230106196, Effect Size = 0.8681770230106196
+C2: p-value = 8.475617192547538e-16, Statistically Significant: Yes, Z-value = 3.593049461568703, Effect Size = 0.3593049461568703
+C3: p-value = 8.547247810978344e-07, Statistically Significant: Yes, Z-value = -7.082949177829214, Effect Size = 0.7082949177829214
+C4: p-value = 3.810538731001668e-14, Statistically Significant: Yes, Z-value = 0.8595812109016036, Effect Size = 0.08595812109016035
+
+Sheet: LApredict, wilcoxon alternative: greater 
+C1: p-value = 1.9395061715094936e-18, Statistically Significant: Yes, Z-value = 8.681770230106196, Effect Size = 0.8681770230106196
+C2: p-value = 1.9395061715094936e-18, Statistically Significant: Yes, Z-value = 8.681770230106196, Effect Size = 0.8681770230106196
+C3: p-value = 1.9377559217001315e-18, Statistically Significant: Yes, Z-value = 8.681770230106196, Effect Size = 0.8681770230106196
+C4: p-value = 3.741237425412216e-11, Statistically Significant: Yes, Z-value = -3.194203779710359, Effect Size = 0.3194203779710359
+
