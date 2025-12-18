@@ -1,0 +1,9 @@
+Sheet: DeepJIT, testKind: wilcoxon, alternative: greater 
+: p-value = 1.9374279165898288e-18, Statistically Significant: Yes, Z-value = 8.681770230106196, Effect Size = 0.8681770230106196
+
+Sheet: LApredict, testKind: wilcoxon, alternative: greater 
+: p-value = 1.9362256814188132e-18, Statistically Significant: Yes, Z-value = 8.681770230106196, Effect Size = 0.8681770230106196
+
+Sheet: CodeBERT, testKind: ttest_rel, alternative: greater 
+: p-value = 2.9375529688954917e-44, Statistically Significant: Yes, Z-value = -8.597209330590472, Effect Size = 0.8597209330590472
+

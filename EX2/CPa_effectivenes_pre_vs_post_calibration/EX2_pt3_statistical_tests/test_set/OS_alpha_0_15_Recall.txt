@@ -1,0 +1,9 @@
+Sheet: CodeBERT4JIT, testKind: ttest_rel, alternative: two-sided 
+Recall: p-value = 0.30680504533704905, Statistically Significant: No, Z-value = -2.9134888157094254, Effect Size = 0.9213260595068343
+
+Sheet: DeepJIT, testKind: ttest_rel, alternative: two-sided 
+Recall: p-value = 5.413944560252478e-13, Statistically Significant: Yes, Z-value = 3.258932972493177, Effect Size = 1.0305650934901305
+
+Sheet: LApredict, testKind: ttest_rel, alternative: two-sided 
+Recall: p-value = 0.7365446781909324, Statistically Significant: No, Z-value = -2.838432212962919, Effect Size = 0.8975910776954934
+

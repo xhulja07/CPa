@@ -1,0 +1,56 @@
+ qt dataset experiment nr: 0: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.108375: 
+ Class = 1 qhat_on alpha:0.150000: 0.949638: 
+------------------------------------------------------------ 
+ qt dataset experiment nr: 1: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.081915: 
+ Class = 1 qhat_on alpha:0.150000: 0.952285: 
+------------------------------------------------------------ 
+ qt dataset experiment nr: 2: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.071126: 
+ Class = 1 qhat_on alpha:0.150000: 0.964552: 
+------------------------------------------------------------ 
+ qt dataset experiment nr: 3: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.102667: 
+ Class = 1 qhat_on alpha:0.150000: 0.947971: 
+------------------------------------------------------------ 
+ qt dataset experiment nr: 4: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.102153: 
+ Class = 1 qhat_on alpha:0.150000: 0.948835: 
+------------------------------------------------------------ 
+ qt dataset experiment nr: 5: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.091170: 
+ Class = 1 qhat_on alpha:0.150000: 0.950945: 
+------------------------------------------------------------ 
+ qt dataset experiment nr: 6: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.075574: 
+ Class = 1 qhat_on alpha:0.150000: 0.963201: 
+------------------------------------------------------------ 
+ qt dataset experiment nr: 7: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.096192: 
+ Class = 1 qhat_on alpha:0.150000: 0.947904: 
+------------------------------------------------------------ 
+ qt dataset experiment nr: 8: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.095309: 
+ Class = 1 qhat_on alpha:0.150000: 0.958955: 
+------------------------------------------------------------ 
+ qt dataset experiment nr: 9: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.102529: 
+ Class = 1 qhat_on alpha:0.150000: 0.953790: 
+------------------------------------------------------------ 
+ qt dataset experiment nr: 10: 
+ Conformal set size: 1000
+ Class = 0 qhat_on alpha:0.150000: 0.119507: 
+ Class = 1 qhat_on alpha:0.150000: 0.952197: 
+------------------------------------------------------------ 
+ 

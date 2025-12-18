@@ -1,0 +1,12 @@
+Sheet: CodeBERT-QT, testKind: wilcoxon, alternative: two-sided 
+Precision class0: p-value = 3.89655984509591e-18, Statistically Significant: Yes, Z-value = -8.681770230106196, Effect Size = 0.8681770230106196
+Precision class1: p-value = 0.10170465799240311, Statistically Significant: No, Z-value = -1.6366426255566533, Effect Size = 0.16366426255566532
+
+Sheet: DeepJIT-QT, testKind: wilcoxon, alternative: two-sided 
+Precision class0: p-value = 1.7279565351601703e-06, Statistically Significant: Yes, Z-value = -4.782709857456522, Effect Size = 0.47827098574565224
+Precision class1 (compared to mean=0): p-value = 3.894362299472808e-18, Statistically Significant: Yes, Z-value = -8.681770230106196, Effect Size = 0.8681770230106196
+
+Sheet: LApredict-QT, testKind: wilcoxon, alternative: two-sided 
+Precision class0: p-value = 0.6655048743854534, Statistically Significant: No, Z-value = -6.120218221619417, Effect Size = 0.6120218221619418
+Precision class1: p-value = 0.382497312833058, Statistically Significant: No, Z-value = -8.370601831759815, Effect Size = 0.8370601831759815
+
