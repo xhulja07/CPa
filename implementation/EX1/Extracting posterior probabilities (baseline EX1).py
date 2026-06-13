@@ -2,8 +2,13 @@ import pandas as pd
 import os
 import glob
 
-dataset = "OS"
-confidence = 0.95  # set threshold
+dataset = "OS" # OS or QT
+confidence = 0.95  # set threshold: 0.95, 0.9, 0.85
+
+#Make sure to set the directory correctly, pointing to your local directory. 
+#This should include Excel files containing the output of the predictions of the predefined prediction model (LApredict /DeepJIT /CodeBERT4JIT) on the test set instances and validation set instances, separately. 
+#Each file should contain the following columns: 
+#"Predicted prob" - the sigmoid score of each prediction; "Predicted label" - the predicted label for each prediction ( 0 or 1); "True label" - the true label of each prediction. 
 
 folder_path = "./LApredict_" + dataset
 excel_files = glob.glob(os.path.join(folder_path, "*.xlsx"))
