@@ -2,10 +2,12 @@ import pandas as pd
 import os
 import glob
 
-dataset = "OS"
-confidence = 0.95  # set threshold
+MODEL = "LApredict"
+DATASET = "os" # or qt
+confidence = 0.95  # set (1-alpha) threshold
 
-folder_path = "./LApredict_" + dataset
+#folder_path = "./LApredict_" + dataset
+folder_path = f'{MODEL}/{DATASET}/test_set'
 excel_files = glob.glob(os.path.join(folder_path, "*.xlsx"))
 
 results = []
@@ -23,7 +25,6 @@ totals = {
     "Nr. correctly flagged Fault-prone": 0,
     "Total Rows": 0
 }
-
 
 for file_path in excel_files:
     df = pd.read_excel(file_path)
@@ -89,7 +90,7 @@ results.append({
 })
 
 summary_df = pd.DataFrame(results)
-output_file = os.path.join("LaPredict_" + dataset + "_detailed_results_0_95.xlsx")
+output_file = os.path.join(MODEL +"_"+ DATASET + "_baseline_effectiveness_results_"+ str(confidence) +".xlsx")
 summary_df.to_excel(output_file, index=False)
 
 print(f"Detailed results saved to {output_file}")
