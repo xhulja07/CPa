@@ -5,6 +5,7 @@ Running the experiments:
 	python 3.9
 	numpy 2.0.2
 	pandas 2.3.3
+	scipy 1.13.1
 
 
 To be able to run the CP adaptations (CPa, CC-CPa, CPC) you need the outputs (prediction probability, prediction label) of the predictions made by the CL-FP models, as well as the true labels of the data instances, as provided in the corresponding ´dataset. 
